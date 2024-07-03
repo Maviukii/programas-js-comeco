@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.amarelo{
+    padding: 20px 20px;
+    border-radius: 9px;
+    background-color: #ffd200;
+    color: black;
+}
+
+.roxo{
+    padding: 20px 20px;
+    border-radius: 9px;
+    background-color: #993399;
+    color: white;
+}
